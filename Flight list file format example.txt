@@ -1,0 +1,2 @@
+Date LOC DES FLIGHT_NUM MaxCap CurCap Guest_List
+mm, dd, yyyy, hh, mm, LAS, SJS, xxx, 30, cc, mmddyyyyLOC-DESxxxx.glist
